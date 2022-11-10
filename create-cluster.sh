@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-resourceGroup="acdnd-c4-project"
-clusterName="udacity-cluster"
+resourceGroup="chzuksy-c4-project"
+clusterName="chuzksy-cluster"
 
 # Install aks cli
 echo "Installing AKS CLI"
