@@ -9,10 +9,6 @@ from datetime import datetime
 
 # App Insights
 # TODO: Import required libraries for App Insights
-import logging
-from datetime import datetime
-# App Insights
-# TODO: Import required libraries for App Insights
 from opencensus.ext.azure.log_exporter import AzureLogHandler
 from opencensus.ext.azure.log_exporter import AzureEventHandler
 from opencensus.ext.azure import metrics_exporter
